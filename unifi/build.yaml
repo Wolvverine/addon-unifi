@@ -4,4 +4,4 @@ build_from:
   amd64: ghcr.io/hassio-addons/ubuntu-base:8.1.1
 codenotary:
   base_image: codenotary@frenck.dev
-  signer: codenotary@frenck.dev
+  signer: wolvverinepld@gmail.com
