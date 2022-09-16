@@ -14,8 +14,6 @@
 ![Project Maintenance][maintenance-shield]
 [![GitHub Activity][commits-shield]][commits]
 
-
-
 The UniFi Network Application allows you to manage your UniFi network
 using a web browser.
 
@@ -94,7 +92,7 @@ SOFTWARE.
 [commits]: https://github.com/Wolvverine/addon-unifi/commits/main
 [contributors]: https://github.com/Wolvverine/addon-unifi/graphs/contributors
 [docs]: https://github.com/Wolvverine/addon-unifi/blob/main/unifi/DOCS.md
-[Wolvverine]: https://github.com/Wolvverine
+[wolvverine]: https://github.com/Wolvverine
 [frenck]: https://github.com/frenck
 [github-actions-shield]: https://github.com/Wolvverine/addon-unifi/workflows/CI/badge.svg
 [github-actions]: https://github.com/Wolvverine/addon-unifi/actions
