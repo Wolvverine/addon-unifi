@@ -14,12 +14,7 @@
 ![Project Maintenance][maintenance-shield]
 [![GitHub Activity][commits-shield]][commits]
 
-[![Discord][discord-shield]][discord]
-[![Community Forum][forum-shield]][forum]
 
-[![Sponsor Frenck via GitHub Sponsors][github-sponsors-shield]][github-sponsors]
-
-[![Support Frenck on Patreon][patreon-shield]][patreon]
 
 The UniFi Network Application allows you to manage your UniFi network
 using a web browser.
@@ -37,18 +32,11 @@ allowing users to get their network up, running, and updated, easily.
 
 ## Support
 
-Got questions?
+Got bug?
 
 You have several options to get them answered:
 
-- The [Home Assistant Community Add-ons Discord chat server][discord] for add-on
-  support and feature requests.
-- The [Home Assistant Discord chat server][discord-ha] for general Home
-  Assistant discussions and questions.
-- The Home Assistant [Community Forum][forum].
-- Join the [Reddit subreddit][reddit] in [/r/homeassistant][reddit]
-
-You could also [open an issue here][issue] GitHub.
+You [open an issue here][issue] GitHub.
 
 ## Contributing
 
@@ -62,7 +50,7 @@ Thank you for being involved! :heart_eyes:
 
 ## Authors & contributors
 
-The original setup of this repository is by [Franck Nijhof][frenck].
+The original setup of this repository is by [Wolvverine] based on[Franck Nijhof][frenck].
 
 For a full list of all authors and contributors,
 check [the contributor's page][contributors].
@@ -102,28 +90,19 @@ SOFTWARE.
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[commits-shield]: https://img.shields.io/github/commit-activity/y/hassio-addons/addon-unifi.svg
-[commits]: https://github.com/hassio-addons/addon-unifi/commits/main
-[contributors]: https://github.com/hassio-addons/addon-unifi/graphs/contributors
-[discord-ha]: https://discord.gg/c5DvZ4e
-[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
-[discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-unifi/blob/main/unifi/DOCS.md
-[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-unifi-controller/56297?u=frenck
+[commits-shield]: https://img.shields.io/github/commit-activity/y/Wolvverine/addon-unifi.svg
+[commits]: https://github.com/Wolvverine/addon-unifi/commits/main
+[contributors]: https://github.com/Wolvverine/addon-unifi/graphs/contributors
+[docs]: https://github.com/Wolvverine/addon-unifi/blob/main/unifi/DOCS.md
+[Wolvverine]: https://github.com/Wolvverine
 [frenck]: https://github.com/frenck
-[github-actions-shield]: https://github.com/hassio-addons/addon-unifi/workflows/CI/badge.svg
-[github-actions]: https://github.com/hassio-addons/addon-unifi/actions
-[github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
-[github-sponsors]: https://github.com/sponsors/frenck
+[github-actions-shield]: https://github.com/Wolvverine/addon-unifi/workflows/CI/badge.svg
+[github-actions]: https://github.com/Wolvverine/addon-unifi/actions
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[issue]: https://github.com/hassio-addons/addon-unifi/issues
+[issue]: https://github.com/Wolvverine/addon-unifi/issues
 [license-shield]: https://img.shields.io/github/license/hassio-addons/addon-unifi.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
-[patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
-[patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[reddit]: https://reddit.com/r/homeassistant
-[releases-shield]: https://img.shields.io/github/release/hassio-addons/addon-unifi.svg
-[releases]: https://github.com/hassio-addons/addon-unifi/releases
-[repository]: https://github.com/hassio-addons/repository
+[releases-shield]: https://img.shields.io/github/release/Wolvverine/addon-unifi.svg
+[releases]: https://github.com/Wolvverine/addon-unifi/releases
+[repository]: https://github.com/Wolvverine/repository

@@ -139,18 +139,9 @@ based on the following:
 
 ## Support
 
-Got questions?
+Got bug?
 
-You have several options to get them answered:
-
-- The [Home Assistant Community Add-ons Discord chat server][discord] for add-on
-  support and feature requests.
-- The [Home Assistant Discord chat server][discord-ha] for general Home
-  Assistant discussions and questions.
-- The Home Assistant [Community Forum][forum].
-- Join the [Reddit subreddit][reddit] in [/r/homeassistant][reddit]
-
-You could also [open an issue here][issue] GitHub.
+You [open an issue here][issue] GitHub.
 
 ## Authors & contributors
 
@@ -185,13 +176,9 @@ SOFTWARE.
 
 [addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
 [addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_unifi&repository_url=https%3A%2F%2Fgithub.com%2Fhassio-addons%2Frepository
-[contributors]: https://github.com/hassio-addons/addon-unifi/graphs/contributors
-[discord-ha]: https://discord.gg/c5DvZ4e
-[discord]: https://discord.me/hassioaddons
-[forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-unifi-controller/56297?u=frenck
+[contributors]: https://github.com/Wolvverine/addon-unifi/graphs/contributors
 [frenck]: https://github.com/frenck
-[issue]: https://github.com/hassio-addons/addon-unifi/issues
+[issue]: https://github.com/Wolvverine/addon-unifi/issues
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
-[reddit]: https://reddit.com/r/homeassistant
-[releases]: https://github.com/hassio-addons/addon-unifi/releases
+[releases]: https://github.com/Wolvverine/addon-unify/releases
 [semver]: http://semver.org/spec/v2.0.0.htm
